@@ -11,6 +11,8 @@ Want to try out Ubuntu or need a lightweight version of Linux available at all t
 
 This project utilizes the official [Ubuntu 22.04](https://hub.docker.com/_/ubuntu) image to deploy a container that supports most CLI tools. It uses [ttyd](https://github.com/tsl0922/ttyd) to provide a seamless, browser-based terminal experience.
 
+
+![Ubuntu Home](./img/ubuntu_home.png)
 ---
 
 ### Features
