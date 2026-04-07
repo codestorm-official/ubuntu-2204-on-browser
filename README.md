@@ -28,7 +28,7 @@ To ensure your instance is secure, please configure the following variables in y
 
 | Variable     | Description                                                                        |
 | :----------- | :--------------------------------------------------------------------------------- |
-| **PORT**     | The port on which the ttyd program will listen (automatically managed by Railway). |
+| **PORT**     | The port on which the ttyd program will listen. |
 | **USERNAME** | The username required to login to the web shell.                                   |
 | **PASSWORD** | The password required to login to the web shell.                                   |
 
